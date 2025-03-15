@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "role": "Artificial Intelligence - Machine Learning Intern",
+      "organisation": "Sparks Foundation",
+      "startDate": "Feb, 2025",
+      "endDate": "Apr, 2025",
+      "location": "Ahmedabad, India",
+      "experiences": [
+        "Worked on Machine Learning Model",
+        "Worked on AI Model"
+        
+      ],
+      "imageSrc": "company/google.png"
+    },
+    {
+      "id": 2,
+      "role": "In future",
+      "organisation": "",
+      "startDate": "",
+      "endDate": "",
+      "location": "",
+      "experiences": [
+        ""
+      ],
+      "imageSrc": "company/microsoft.png"
+    },
+    {
+      "id": 3,
+      "role": "In future",
+      "organisation": "",
+      "startDate": "",
+      "endDate": "",
+      "location": "",
+      "experiences": [
+        ""
+      ],
+      "imageSrc": ""
+    }
+  ]
